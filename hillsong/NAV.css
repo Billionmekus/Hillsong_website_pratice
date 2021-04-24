@@ -1,0 +1,518 @@
+
+.nav {
+    background-color: gainsboro;
+    height: 40px;
+    padding: 10px;
+    text-decoration: none;
+}
+.nav a:hover{
+    font-weight: bolder;
+    color: black;
+    text-decoration: none;
+}
+span{
+    margin-left: 20px;
+}
+#last{
+    margin-left: 550px;
+}
+
+#secondnav{
+    padding: 10px;
+    background-color: ghostwhite;
+    height: 85px;
+    font-size: 17px;
+    text-decoration: none;
+    margin-top: 40px;
+    
+}
+#secondnav a:hover {
+    color: burlywood;
+    text-decoration: none;
+
+}
+#church{
+    margin-top: 20px;
+    margin-left: 5px;
+    text-decoration: none;
+    color: black;
+}
+#location{
+    margin-top: 20px;
+}
+#Ministries{
+    margin-top: 20px;
+}
+#Music{
+    margin-top: 20px;
+}
+#Events{
+    margin-top: 20px;
+}
+#collected{
+    margin-top: 20px;
+}
+#about{
+    margin-top: 20px;
+    margin-left: 200px;
+}
+
+.First{
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    min-height: 600px;
+    padding-top: 90px;
+    
+    
+}
+
+.First h1{
+    text-align: center;
+    padding-top: 90px;
+    margin: 15px;
+    color:white;
+    font-size: 80px;
+   
+   
+}
+
+.First h2{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    
+}
+.First p{
+    margin-top: 50px;
+}
+.First a{
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    border: 2px solid whitesmoke ;
+    border-radius: 20px;
+    margin-left: 500px;
+    
+}
+
+.First a:hover{
+    border: 2px solid yellow ;
+    
+   
+}
+.vid{
+    min-width: 100%;
+    min-height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: -1;}
+
+.Second{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 600px;
+    margin-top: -43px
+    
+}
+#H1{
+    padding-top: 140px;
+}
+#H2{
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+#H3{
+    font-size: 20px;
+}
+
+.Second a{
+    
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    border: 2px solid whitesmoke ;
+    border-radius: 20px;
+    
+}
+
+.Second p{
+    margin-top:50px ;
+}
+.Second a:hover{
+    border: 2px solid yellow ;
+}
+.Third{
+    padding: 50px;
+}
+
+#bold1{
+    margin-left: 150px;
+}
+
+#bold2{
+    margin-left: 20px;
+}
+
+#bold3{
+    margin-left: 20px;
+}
+
+#bold4{
+    margin-left: 20px;
+}
+
+#bold5{
+    margin-left: 20px;
+}
+
+.Third img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.Third a:hover{
+    background-color: yellow;
+    border: 2px solid yellow ;
+    text-decoration: none;
+    color: black;
+}
+
+.fourth{
+    text-align: center
+}
+.fourth a{
+    padding: 10px;
+    font-size: 15px;
+    color: black;
+    text-decoration: none;
+    border: 2px solid black ;
+    border-radius: 20px;
+    
+}
+.fourth a:hover{
+    background-color:  yellow;
+}
+
+.fifth{
+    margin-top: 100px;
+    background-image: url(IMG/Concert.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    height: 460px; 
+    text-align: left;
+    color: white;
+    
+}
+.fifth a{
+    padding: 10px;
+    font-size: 15px;
+    color:white;
+    text-decoration: none;
+    border: 2px solid white ;
+    border-radius: 20px;
+    margin-left: 60px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.fifth h1{
+    padding-top: 130px;
+    margin-left: 80px;
+}
+.fifth p{
+    margin-left: 60px;
+}
+
+.fifth a:hover{
+    border: 2px solid goldenrod ;
+}
+.alert{
+    text-align: center;
+    padding-top: 50px;
+    margin-top: -20px;
+    height: 800px;
+}
+.alert h1{
+    color: grey;
+    margin-top: 50px;
+}
+.alert h2{
+    color: black;
+    padding: 30px;
+    font-weight: lighter;
+}
+
+.row h3{
+    padding: 20px;
+    font-size: 20px;
+}
+
+.row a{
+    
+    padding: 10px;
+    font-size: 15px;
+    color:gray;
+    text-decoration: none;
+    border: 2px solid gray ;
+    border-radius: 20px; 
+    font-weight: lighter;
+}
+
+.row a:hover{
+    border: 2px solid goldenrod ;
+}
+.row p{
+    font-weight: lighter;
+}
+#lighth2{
+    font-weight: lighter;
+    color: black;
+}
+
+.sixth{
+    margin-top: 100px;
+    background-image: url(IMG/nextdiv.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    height: 460px; 
+    text-align: center;
+    color: white;
+    
+}
+
+.sixth h1{
+    padding-top: 100px;
+    font-weight: bold;
+}
+
+.sixth h2{
+    
+    font-weight: lighter;
+}
+
+.sixth p{
+   font-size: 20px;
+   font-weight: lighter;
+}
+.sixth a{
+    
+    padding: 10px;
+    font-size: 15px;
+    color:white;
+    text-decoration: none;
+    border: 2px solid white ;
+    border-radius: 20px; 
+    font-weight: lighter;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.sixth a:hover{
+    border: 2px solid goldenrod ;
+}
+
+.seventh{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 600px;
+    
+}
+.seventh img{
+    width: 180px;
+    padding-top: 100px;
+}
+.seventh h1{
+    padding-top: 20px;
+    font-weight: bold;
+}
+
+.seventh h2{
+    
+    font-weight: lighter;
+}
+
+.seventh p{
+   font-size: 20px;
+   font-weight: lighter;
+   padding-top: 20px;
+}
+.seventh a{
+    
+    padding: 10px;
+    font-size: 15px;
+    color:white;
+    text-decoration: none;
+    border: 2px solid white ;
+    border-radius: 20px; 
+    font-weight: lighter;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.seventh a:hover{
+    border: 2px solid goldenrod ;
+}
+
+.eight{
+   
+    background-image: url(IMG/twitter\ hiilsong.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    height: 500px; 
+    text-align: center;
+    color: white;
+}
+.eight h1{
+    padding-top: 80px;
+    font-weight: bold;
+}
+
+.eight h2{
+    
+    font-weight: lighter;
+}
+
+.eight p{
+   font-size: 20px;
+   font-weight: lighter;
+   padding-top: 20px;
+}
+.eight a{
+    
+    padding: 10px;
+    font-size: 15px;
+    color:white;
+    text-decoration: none;
+    border: 2px solid white ;
+    border-radius: 20px; 
+    font-weight: lighter;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.eight a:hover{
+    border: 2px solid goldenrod ;
+}
+.nine {
+    background-color:rgb(182, 135, 17);
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+    height: 500px;
+}
+
+.nine img{
+   width: 600px;
+}
+.nine h2{
+    
+    font-weight: lighter;
+    font-size: 37px;
+}
+
+.nine p{
+   font-size: 20px;
+   font-weight: lighter;
+   padding-top: 30px;
+}
+.nine a{
+    
+    padding: 10px;
+    font-size: 15px;
+    color:white;
+    text-decoration: none;
+    border: 2px solid white ;
+    border-radius: 20px; 
+    font-weight: lighter;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.nine a:hover{
+    border: 2px solid goldenrod ;
+}
+.ten{
+    
+    background-color: rgb(219, 92, 155);
+    text-align: center;
+    color: white;
+    padding-top: 110px;
+    height: 500px;
+}
+.ten h1{
+    padding-top: 10px;
+    font-weight: bold;
+    font-size: 40px;
+
+}
+
+.ten h2{
+    
+    font-weight: lighter;
+    font-size: 35px;
+}
+
+.ten a{
+    
+    padding: 10px;
+    font-size: 15px;
+    color:white;
+    text-decoration: none;
+    border: 2px solid white ;
+    border-radius: 20px; 
+    font-weight: lighter;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.ten a:hover{
+    border: 2px solid goldenrod ;
+}
+
+#lastrow{
+    background-color:black;
+    color: white;
+    padding-top: 100px;
+    padding-left: 40px;
+    font-weight: lighter;
+}
+#colu {
+    font-weight: lighter;
+}
+.contents{
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    background: rgb(0, 0, 0, 0.6) ;
+    height: 120px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.contents span{
+    margin-left: 5px;
+}
+#goldspnan {
+    color: goldenrod;
+}
+.content{
+    background: rgb(0, 0, 0, 0.4) ;
+    height: 460px;
+
+}
+.contentt{
+    background: rgb(0, 0, 0, 0.3) ;
+    height: 500px;
+}
+
+
